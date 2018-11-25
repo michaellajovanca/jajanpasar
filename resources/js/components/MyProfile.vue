@@ -12,7 +12,6 @@
             <input type="text" v-model="username" id="inputUserame" placeholder="Username">
             <hr color="#667ab3" size="2px" width="60%"/>
 
-           
             <input type="text" v-model="email" id="inputUserame" readonly>
             <hr color="#667ab3" size="2px" width="60%"/>
             
